@@ -1,3 +1,3 @@
 # Vibe
 
-A description of this package.
+Vibe is an A/B testing library for Swift apps.

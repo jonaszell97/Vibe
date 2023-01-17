@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "cryo",
+      "kind" : "localSourceControl",
+      "location" : "/Users/jonaszell/Cryo",
+      "state" : {
+        "branch" : "dev",
+        "revision" : "fd56da383f283b3ad36993ed1d51f7b4584d7156"
+      }
+    }
+  ],
+  "version" : 2
+}
