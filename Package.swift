@@ -15,7 +15,7 @@ let package = Package(
             targets: ["Vibe"]),
     ],
     dependencies: [
-        .package(url: "/Users/jonaszell/Cryo", branch: "dev"),
+        .package(url: "/Users/jonaszell/Developer/Cryo", branch: "dev"),
     ],
     targets: [
         .target(
